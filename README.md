@@ -7,6 +7,7 @@ Sass is a CSS precompiler that adds additional developer tools that make your co
 * [Adding a Sass stylesheet](https://create-react-app.dev/docs/adding-a-sass-stylesheet/)
 * [Understanding Sass (Basics, Installation, Etc.)](https://blog.bitsrc.io/the-complete-beginners-guide-to-sass-ee8d5278f4c)
 * [Sass Documentation](https://sass-lang.com/guide)
+* [My Sass Presentation SLides](https://docs.google.com/presentation/d/1Tdg91aZk_g86TEbs3uUwkQ11LeQ2j_dSyO_tJYSrcLc/edit?usp=sharing)
 
 ## What you'll find
 In this repo I've included a "unsolved" and "solved" version of creating more DRY code using Sass. 

@@ -17,7 +17,7 @@ In this repo I've included a "unsolved" and "solved" version of creating more DR
 2. To get the Sass Compiler to watch and update your CSS files
 run ```npm run compile:sass``` in your terminal
 
-Sass will automatically compile into your styles.css file once there's a new change.
+Sass will automatically compile into your styles.css file once there's a new change. Only make changes in the scss files!
 
 ### Author
 Michelle Collums, Software Developer
